@@ -1,5 +1,7 @@
 # teste-dark-docker
 
-# entrar na pasta do projeto
+## entrar na pasta do projeto
+cd diretorio
 
-# docker-compose up
+## rodar o projeto
+docker-compose up
