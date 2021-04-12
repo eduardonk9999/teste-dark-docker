@@ -1,0 +1,17 @@
+@import "color-variables.css";
+@import "fonts.css";
+@import "header.css";
+@import "banner-principal.css";
+@import "serie.css";
+@import "read.css";
+@import "books.css";
+@import "footer.css";
+
+
+@media(max-width: 768px){
+  img{
+    width: 100%;
+  }
+  
+}
+
